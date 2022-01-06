@@ -1,0 +1,22 @@
+
+.contact-container img:nth-child(1) {
+  position: relative;
+  left: 0;
+  border: 3px solid #e5e5e5;
+}
+.contact-container img:nth-child(2) {
+  position: relative;
+  left: -10px;
+  border: 3px solid #e5e5e5;
+}
+.contact-container img:nth-child(3) {
+  position: relative;
+  left: -20px;
+  border: 3px solid #e5e5e5;
+}
+.contact-container img:nth-child(4) {
+  position: relative;
+  left: -30px;
+  border: 3px solid #e5e5e5;
+}
+
